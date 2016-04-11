@@ -23,7 +23,7 @@ window.Cust.accordionItem = {
     overrideCtx.Templates.Item = window.Cust.accordionItem.customItemHtml;
     overrideCtx.Templates.Footer = "</div>";
     overrideCtx.BaseViewID = 1;
-    overrideCtx.ListTemplateType = 10000;
+    overrideCtx.ListTemplateType = 100;
 
     // Register the template overrides.
 
