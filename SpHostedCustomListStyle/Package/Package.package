@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b1900eb8-6ad5-472e-a4de-302f915d6e47" 
+        solutionId="b1900eb8-6ad5-472e-a4de-302f915d6e47" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SpHostedCustomListStyle"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="2abae15a-99ca-4da1-a1cc-3ea068028488" />
+  </features>
+</package>

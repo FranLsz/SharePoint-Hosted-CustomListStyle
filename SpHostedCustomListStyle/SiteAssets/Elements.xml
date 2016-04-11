@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SiteAssets">
+    <File Path="SiteAssets\Sample.txt" Url="SiteAssets/Sample.txt" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\jquery-ui.css" Url="SiteAssets/jquery-ui.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
